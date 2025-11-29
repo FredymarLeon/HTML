@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 0;
+    margin-left: 0;
+    width: 1920px;
+    height: 2865px;
+    background: #FFFFFF;
+    opacity: 1;
+}
+
+.foto-principal, .foto-secun {
+    margin-top: 25px;
+    margin-left: 22px;
+    width: 883px;
+    height: 374px;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+#name-recipe {
+    margin-top: 20px;
+    margin-left: 21px;
+    width: 884px;
+    height: 187px;
+    text-align: left;
+    font-style: normal;
+    font-family: Montserrat;
+    font-size: 89px;
+    line-height: 79px;
+    letter-spacing: 0px;
+    font-weight: 900;
+    opacity: 1;
+    color: #FFB300;
+}
+
+#autora {
+    margin-top: 17px;
+    margin-left: 21px;
+    width: 884px;
+    height: 28px;
+    letter-spacing: 0px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    color: #000000;
+    opacity: 1;
+    text-align: right;
+    line-height: 33.81px;
+}
+
+#lista-links li a {
+    text-decoration: underline;
+    font-family: Montserrat;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 900;
+    letter-spacing: 0px;
+    color: #0037B3;
+    text-transform: uppercase;
+    opacity: 1;
+    margin-top: 30px;
+    margin-left: 22px;
+    width: 363px;
+    height: 25px;
+    text-align: left;
+}
+
+.text-descripcion {
+    margin-top: 79px;
+    margin-left: 21px;
+    width: 884px;
+    height: auto;
+}
+
+#p-descrip {
+    text-align: left;
+    font-family: Montserrat, sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+    font-style: nolmal;
+    color: #000000;
+    opacity: 1;
+}
+
+.descripcion2 {
+    width: 884px;
+    margin-top: 30px;
+    margin-left: 21px;
+    height: auto;
+}
+
+h2 {
+    text-align: left;
+    font-family: Montserrat, sans-serif;
+    font-size: 34px;
+    font-weight: 900;
+    line-height: 42px;
+    font-style: normal;
+    color: #FFB300;
+    opacity: 1;
+}
+
+h3 {
+    margin-top: 16px;
+    text-align: left;
+    font-family: Montserrat, sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 40px;
+    font-style: italic;
+    color: #FFB300;
+    opacity: 1;
+}
+
+.descripcion2 ul li, ol li {
+    margin-top: 8px;
+    margin-left: 42px;
+    font-family: Montserrat;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    text-align: left;
+}
